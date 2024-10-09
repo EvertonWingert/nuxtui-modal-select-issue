@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-tailwindcss4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^3.0.0-alpha.5",
+    "nuxt": "^3.12.4"
+  },
+  "devDependencies": {
+    "@iconify-json/heroicons": "^1.2.1",
+    "typescript": "^5.6.2"
+  }
+}
